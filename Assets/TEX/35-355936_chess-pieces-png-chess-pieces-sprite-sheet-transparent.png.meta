@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 8bf8459a3abcfd84c90f8eb12043a0de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5420829829644777513
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_0
+  - first:
+      213: 1294160517708725394
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_1
+  - first:
+      213: -7749043456534653948
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_2
+  - first:
+      213: 7901476442662010573
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_3
+  - first:
+      213: -1674538614595229652
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_4
+  - first:
+      213: 4281948944602330702
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_5
+  - first:
+      213: 6230913830605171933
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_6
+  - first:
+      213: 7893941289443783564
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_7
+  - first:
+      213: 7675101100008653674
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_8
+  - first:
+      213: 738533799988547801
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_9
+  - first:
+      213: 4056225295648748819
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_10
+  - first:
+      213: -943797376208867799
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_11
+  - first:
+      213: 5022568523741176627
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_12
+  - first:
+      213: 5851734827358223059
+    second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 149
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d78e20adf755c4b0800000000000000
+      internalID: -5420829829644777513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 150
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c3d545228c5f110800000000000000
+      internalID: 1294160517708725394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404df20580ed57490800000000000000
+      internalID: -7749043456534653948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce7cf5f5fea7ad60800000000000000
+      internalID: 7901476442662010573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 150
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28606a8008d2c8e0800000000000000
+      internalID: -1674538614595229652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 149
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46716dd0e98c6b30800000000000000
+      internalID: 4281948944602330702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2a4bbd17a87650800000000000000
+      internalID: 6230913830605171933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 63
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c93939cf638a60800000000000000
+      internalID: 7675101100008653674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0dfe2049ccf3a00800000000000000
+      internalID: 738533799988547801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f8146a6b9a4830800000000000000
+      internalID: 4056225295648748819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eef1b6945f6e2f0800000000000000
+      internalID: -943797376208867799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 64
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333a6ad267fb3b540800000000000000
+      internalID: 5022568523741176627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
