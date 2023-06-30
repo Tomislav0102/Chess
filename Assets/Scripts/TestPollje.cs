@@ -17,7 +17,7 @@ public class TestPollje : MonoBehaviour
     {
         koor.x = transform.GetSiblingIndex() % 8;
         koor.y = transform.GetSiblingIndex() / 8;
-        gm.testPolljes[koor.x, koor.y] = this;
+      //  gm.testPolljes[koor.x, koor.y] = this;
     }
 
 }

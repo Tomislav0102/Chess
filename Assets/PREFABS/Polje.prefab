@@ -29,12 +29,13 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1810294100613223287}
   - {fileID: 3232206183957647954}
   - {fileID: 3009089558197066550}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -91,15 +92,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d37f88bbaa4e3c54db6271aead371a2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  koor: {x: 0, y: 0}
-  imgBojaPolja: {fileID: 5424329310066009648}
+  coor: {x: 0, y: 0}
+  imgTileColor: {fileID: 5424329310066009648}
   imgSelectFigure: {fileID: 2386364285117925317}
   hl: {fileID: 3169325587527494843}
-  lik: {fileID: 3105549705903061694}
+  imgFigure: {fileID: 3105549705903061694}
   likTR: {fileID: 0}
-  bojice:
-  - {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 1}
-  - {r: 0.26560116, g: 0.23309009, b: 0.509434, a: 1}
+  tileColors:
+  - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+  - {r: 0.26666668, g: 0.23137255, b: 0.50980395, a: 1}
   figura: 0
 --- !u!1 &1145476547086718189
 GameObject:
@@ -113,7 +114,7 @@ GameObject:
   - component: {fileID: 435872926673790542}
   - component: {fileID: 3105549705903061694}
   m_Layer: 5
-  m_Name: lik
+  m_Name: img figure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -129,6 +130,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2749910266172121146}
   m_RootOrder: 2
@@ -188,7 +190,7 @@ GameObject:
   - component: {fileID: 9216857175599476567}
   - component: {fileID: 5424329310066009648}
   m_Layer: 5
-  m_Name: boja polja
+  m_Name: img tile color
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -204,6 +206,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2749910266172121146}
   m_RootOrder: 0
@@ -263,7 +266,7 @@ GameObject:
   - component: {fileID: 4630059853615172968}
   - component: {fileID: 3169325587527494843}
   m_Layer: 5
-  m_Name: hl
+  m_Name: highlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -279,6 +282,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2749910266172121146}
   m_RootOrder: 1

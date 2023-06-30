@@ -45,7 +45,7 @@ TextureImporter:
       213: 5851734827358223059
     second: 35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_13
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -62,10 +62,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,6 +106,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -115,6 +119,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -127,6 +132,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -139,6 +145,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -151,6 +158,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -163,6 +171,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -430,9 +452,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_0: -5420829829644777513
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_1: 1294160517708725394
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_10: 4056225295648748819
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_11: -943797376208867799
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_12: 5022568523741176627
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_2: -7749043456534653948
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_3: 7901476442662010573
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_4: -1674538614595229652
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_5: 4281948944602330702
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_6: 6230913830605171933
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_8: 7675101100008653674
+      35-355936_chess-pieces-png-chess-pieces-sprite-sheet-transparent_9: 738533799988547801
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
